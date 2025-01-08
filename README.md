@@ -1,5 +1,5 @@
 # AdventureWorks Analysis.
-The project process is divided into three processes:
+The project process is divided into five processes:
 
 1- Data Cleaning
  Remove Duplicate
